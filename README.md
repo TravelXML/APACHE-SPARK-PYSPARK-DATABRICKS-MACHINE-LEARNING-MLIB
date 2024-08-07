@@ -170,7 +170,3 @@ For more in-depth tutorials and articles on Apache Spark, PySpark, and big data 
 - [PySpark Documentation](https://spark.apache.org/docs/latest/api/python/)
 
 Feel free to reach out if you have any questions or need further assistance. Happy coding!
-
----
-
-This README file provides a comprehensive guide that is easy to follow, even for beginners. It includes step-by-step instructions on setting up the Databricks environment, uploading data, running the analysis, and evaluating the model, ensuring a thorough understanding of the process.
