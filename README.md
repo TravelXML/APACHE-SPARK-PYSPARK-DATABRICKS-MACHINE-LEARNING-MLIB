@@ -1,8 +1,6 @@
 # Apache Spark Machine Learning with MLlib and Linear Regression on Databricks
 
-## Introduction
-
-Welcome to the Apache Spark Machine Learning project using MLlib and Linear Regression on Databricks! This project demonstrates the application of machine learning techniques on big data using PySpark, the Python API for Apache Spark. This guide will walk you through the entire process, from setting up your Databricks environment to performing data analysis and building a linear regression model.
+Apache Spark Machine Learning project using MLlib and Linear Regression on Databricks! This project demonstrates the application of machine learning techniques on big data using PySpark, the Python API for Apache Spark. This guide will walk you through the entire process, from setting up your Databricks environment to performing data analysis and building a linear regression model.
 
 ## What is Apache Spark and PySpark?
 
