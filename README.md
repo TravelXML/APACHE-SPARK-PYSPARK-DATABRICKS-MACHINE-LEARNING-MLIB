@@ -156,16 +156,6 @@ print(f"Mean Absolute Error: {mae}")
 print(f"Mean Squared Error: {mse}")
 ```
 
-### Example Data Analysis
-
-```python
-# Convert to Pandas for visualization
-pdf = df.toPandas()
-
-# Visualize data
-sns.pairplot(pdf)
-plt.show()
-```
 
 ## Conclusion
 
